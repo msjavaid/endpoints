@@ -1,0 +1,65 @@
+{
+"birthdays": [
+{
+"id": 1,
+"birthday": "Traditional Dhol Birthday Bash",
+"description": "Celebrate your birthday with the rhythmic beats of traditional dhol. A vibrant fusion of culture and joy for an unforgettable party.",
+"details": "The Traditional Dhol Birthday Bash brings the essence of Punjabi culture to your celebration, featuring live dhol performances that energize the crowd. Guests can dance to the thunderous rhythms while enjoying traditional decor and festivities. This theme is perfect for those who want a high-energy party with a touch of heritage. The dhol players, dressed in colorful attire, create an atmosphere of pure excitement and unity.\n\n- Live dhol performances throughout the event\n- Traditional Punjabi dance sessions\n- Customized birthday decorations with cultural motifs\n- Interactive games involving dhol beats",
+"image_url": "https://example.com/images/dhol-birthday-1.jpg"
+},
+{
+"id": 2,
+"birthday": "Modern Dhol Fusion Party",
+"description": "Blend contemporary music with classic dhol beats for a modern birthday twist. Ideal for young adults seeking a unique celebration experience.",
+"details": "In the Modern Dhol Fusion Party, traditional dhol rhythms meet modern DJ mixes, creating a dynamic soundtrack for your birthday. The venue is adorned with LED lights and modern decor, complementing the energetic performances. Guests enjoy a mix of Bollywood hits and Punjabi folk tunes, fostering a lively dance floor. This theme appeals to those who appreciate cultural roots with a contemporary flair.\n\n- DJ fusion sets with live dhol\n- Neon-themed decorations and lighting\n- Photo booths with dhol props\n- Signature cocktails inspired by Punjabi flavors"
+},
+{
+"id": 3,
+"birthday": "Kids Dhol Adventure Birthday",
+"description": "A fun-filled birthday for children featuring playful dhol sessions. Engage kids with interactive music and games centered around dhol.",
+"details": "The Kids Dhol Adventure Birthday turns your child's special day into a musical adventure with kid-friendly dhol workshops. Little ones learn basic rhythms while participating in group activities and storytelling. The party includes colorful balloons, themed cakes, and safe play areas. Parents can relax knowing the entertainment is both educational and exciting, promoting cultural awareness from a young age.\n\n- Interactive dhol learning sessions for kids\n- Themed games and treasure hunts\n- Birthday cake with dhol designs\n- Goodie bags with mini dhol toys"
+},
+{
+"id": 4,
+"birthday": "Royal Dhol Palace Celebration",
+"description": "Experience a regal birthday with dhol performances in a palace-like setting. Luxurious and grand for milestone birthdays.",
+"details": "The Royal Dhol Palace Celebration offers a majestic atmosphere with elaborate dhol ensembles and opulent decorations. Guests are treated to a royal feast accompanied by live music that echoes through the venue. This theme is suited for significant milestones, providing photo opportunities with throne setups and cultural artifacts. The evening culminates in a grand fireworks display synchronized with dhol beats.\n\n- Professional dhol troupe performances\n- Lavish buffet with traditional cuisine\n- Royal throne for birthday photos\n- Fireworks finale with dhol accompaniment"
+},
+{
+"id": 5,
+"birthday": "Beach Dhol Sunset Party",
+"description": "A relaxed beach birthday with dhol beats at sunset. Combine ocean vibes with rhythmic music for a chill celebration.",
+"details": "The Beach Dhol Sunset Party captures the serenity of the seaside with upbeat dhol sessions as the sun sets. Guests lounge on beach setups while enjoying tropical drinks and light snacks. The dhol adds a festive touch to the relaxed environment, encouraging barefoot dancing on the sand. This theme is perfect for summer birthdays seeking a blend of relaxation and energy.\n\n- Sunset dhol performances by the shore\n- Beach-themed cocktails and refreshments\n- Sandcastle building contests\n- Bonfire storytelling with dhol background"
+},
+{
+"id": 6,
+"birthday": "Vintage Dhol Retro Bash",
+"description": "Step back in time with a vintage-themed birthday featuring classic dhol tunes. Nostalgic decor and music for a timeless party.",
+"details": "The Vintage Dhol Retro Bash revives old-school charm with authentic dhol rhythms from past eras. The venue is decorated with antique elements, vinyl records, and retro lighting. Guests dress in vintage attire, dancing to timeless Punjabi classics. This theme evokes memories while creating new ones, ideal for those who cherish history and culture.\n\n- Retro dhol music playlist\n- Vintage photo booths and props\n- Classic Punjabi snacks and drinks\n- Dance competitions with prizes"
+},
+{
+"id": 7,
+"birthday": "Adventure Dhol Quest Birthday",
+"description": "An adventurous birthday quest infused with dhol excitement. Explore challenges and rhythms for an action-packed day.",
+"details": "The Adventure Dhol Quest Birthday combines thrilling activities with pulsating dhol beats to guide participants through quests. From obstacle courses to treasure hunts, each challenge is accompanied by motivational music. The party fosters teamwork and fun, ending with a victory celebration. Suitable for active individuals who enjoy outdoor adventures with a cultural twist.\n\n- Dhol-guided adventure challenges\n- Team-based games and puzzles\n- Themed adventure decorations\n- Victory feast with dhol entertainment"
+},
+{
+"id": 8,
+"birthday": "Elegant Dhol Gala Night",
+"description": "A sophisticated birthday gala with elegant dhol performances. Perfect for formal evenings with a touch of tradition.",
+"details": "The Elegant Dhol Gala Night features refined dhol arrangements in a upscale venue, blending sophistication with cultural vibes. Guests enjoy gourmet dining and live music that enhances the ambiance. This theme is tailored for adult birthdays, offering networking opportunities and memorable toasts. The night concludes with a elegant dance session under chandeliers.\n\n- Subtle dhol background music\n- Gourmet multi-course dinner\n- Formal dress code with cultural accents\n- Toast and speech sessions"
+},
+{
+"id": 9,
+"birthday": "Fantasy Dhol Enchanted Party",
+"description": "Enter a fantasy world with dhol magic for your birthday. Mystical themes and rhythms for an enchanting experience.",
+"details": "The Fantasy Dhol Enchanted Party transports guests to a magical realm where dhol beats weave spells of joy. With fairy lights, mythical creatures, and enchanted decor, the celebration is immersive. Activities include storytelling and magic shows synchronized with music. Ideal for creative souls who dream of fantastical birthdays.\n\n- Enchanted dhol performances\n- Magic shows and illusions\n- Fantasy-themed costumes encouraged\n- Mystical dessert bar"
+},
+{
+"id": 10,
+"birthday": "Sports Dhol Victory Celebration",
+"description": "A sporty birthday with dhol cheers for victories. Combine athletic games with rhythmic energy for active fun.",
+"details": "The Sports Dhol Victory Celebration kicks off with competitive games amplified by dhol motivational beats. Teams compete in various sports, followed by award ceremonies and dancing. The venue is set up like a stadium with banners and trophies. This theme energizes sports enthusiasts for a birthday full of action and triumph.\n\n- Dhol cheers during sports events\n- Competitive games and tournaments\n- Trophy presentations\n- Victory party with refreshments"
+}
+]
+}
