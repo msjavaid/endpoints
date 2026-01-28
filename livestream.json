@@ -1,0 +1,35 @@
+{
+  "leagues": [
+    {
+      "league": "NFL",
+      "league_name": "Super Bowl",
+      "matches": [
+        {
+          "id": "nfl1",
+          "title": "Patriots vs Seahawks",
+          "team_a": "Patriots",
+          "team_b": "Seahawks",
+          "time": "2026-02-09T04:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
