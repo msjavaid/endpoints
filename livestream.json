@@ -1,6 +1,473 @@
 {
   "leagues": [
     {
+      "league": "NBA",
+      "league_name": "Basketball League",
+      "matches": [
+        {
+          "id": "nba1",
+          "title": "76ers vs Kings",
+          "team_a": "76ers",
+          "team_b": "Kings",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=8NBC8OeNeftdw3OPMipF4DjsdKnJqezucOtb4T2pET4&e=1769719586",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba2",
+          "title": "Wizards vs Bucks",
+          "team_a": "Wizards",
+          "team_b": "Bucks",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?st=b_LkKHX9cM3qE1lE0hMiutTnj3njlOP883r9YG-G9tA&e=1769719644",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba3",
+          "title": "Hawks vs Rockets",
+          "team_a": "Hawks",
+          "team_b": "Rockets",
+          "time": "2026-01-30T06:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=aadXuDECiHG8mq-r9UJao8qJERSmvth83_B64ZDwhfk&e=1769719679",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba4",
+          "title": "Bulls vs Heat",
+          "team_a": "Bulls",
+          "team_b": "Heat",
+          "time": "2026-01-30T06:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=H0Z3mYs3aAQKdZD63j_6lIqFlfsGDQbiHglV5r1t82w&e=1769719738",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba5",
+          "title": "Mavericks vs Hornets",
+          "team_a": "Mavericks",
+          "team_b": "Hornets",
+          "time": "2026-01-30T06:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?st=3p13MGRTeC9_Hrn5vcXQhAoqr9rjX9J8nIWU7sGTlfI&e=1769719776",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba6",
+          "title": "Nuggets vs Nets",
+          "team_a": "Nuggets",
+          "team_b": "Nets",
+          "time": "2026-01-30T07:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=nAAG2sTmFiTHXYISXu99ZceqmbvDZhl2QN87xJNTRjU&e=1769719809",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba7",
+          "title": "Suns vs Pistons",
+          "team_a": "Suns",
+          "team_b": "Pistons",
+          "time": "2026-01-30T07:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=Z4IFlvF7V3mygtK7Oa1Jy-U4c9x5unsnR9cMYcZgDgg&e=1769719844",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nba8",
+          "title": "Timberwolves vs Thunder",
+          "team_a": "Timberwolves",
+          "team_b": "Thunder",
+          "time": "2026-01-30T07:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streambtw.com/"
+              }
+            },
+            {
+              "quality": "Link2",
+              "url": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?st=OeE7VFl4K5R7iemej3Nyrl_7Wurh18Ycjj9oj5gYLGQ&e=1769719878",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "league": "NHL",
+      "league_name": "Hockey League",
+      "matches": [
+        {
+          "id": "nhl1",
+          "title": "Lightning vs Jets",
+          "team_a": "Lightning",
+          "team_b": "Jets",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=lQKAvKx3Oav4rb--ubuAAvZbodV2pflMtaTLchYJCPY&e=1769719999",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl2",
+          "title": "Rangers vs Islanders",
+          "team_a": "Rangers",
+          "team_b": "Islanders",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/sdezqfza55.m3u8?st=l78c3Eh3uzUCKIjER2FBfLcEpcntnX9bq-FmNjbtiuQ&e=1769720062",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl3",
+          "title": "Hurricanes vs Mammoth",
+          "team_a": "Hurricanes",
+          "team_b": "Mammoth",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://edgestreams.pro/hls/rzavbdyua57.m3u8?st=vYE-AOnEGsjut6wUsYCzcI7PXh2nAHRxhkHfY4TDGb0&e=1769720101",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl4",
+          "title": "Canadiens vs Avalanche",
+          "team_a": "Canadiens",
+          "team_b": "Avalanche",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=FAlfSfiYMR3-D4Pvwc-blgrlIy35RQkq2N12xh1mLjo&e=1769720145",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl5",
+          "title": "Sabres vs Kings",
+          "team_a": "Sabres",
+          "team_b": "Kings",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=5JX6Wn7bBalEbxOxoGcwDrtF07hgI-6GMB8aXpqCPjo&e=1769720181",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl6",
+          "title": "Devils vs Predators",
+          "team_a": "Devils",
+          "team_b": "Predators",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?st=lGfIadMEaD55Wth7UOGfF0Q0zn2jipC1eQ3yPxgeXuM&e=1769720215",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl7",
+          "title": "Penguins vs Blackhawks",
+          "team_a": "Penguins",
+          "team_b": "Blackhawks",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/poiryezafv56.m3u8?st=ivswlJjbq1IQpU_ckZyUfqDCz6cwOU_XJmIuMPrQPH4&e=1769720269",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl8",
+          "title": "Bruins vs Flyers",
+          "team_a": "Bruins",
+          "team_b": "Flyers",
+          "time": "2026-01-30T05:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Jz9bzKk_lM9TqkbxX6sLP7mgHpSr-QpVcrZm_2R72j4&e=1769719933",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl9",
+          "title": "Red Wings vs Capitals",
+          "team_a": "Red Wings",
+          "team_b": "Capitals",
+          "time": "2026-01-30T05:30:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/earzfddshg58.m3u8?st=PgGzppfFw2Za4rZWt6zK2l8ou4kP6oDSIhOCBQME7_k&e=1769720374",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl10",
+          "title": "Wild vs Flames",
+          "team_a": "Wild",
+          "team_b": "Flames",
+          "time": "2026-01-30T06:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://edgestreams.pro/hls/cwxvbnfghq60.m3u8?st=Lyc4ugNRvsJhumKFe9HTWMIejbdEkDNkcIfWQKz2Qew&e=1769720425",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl11",
+          "title": "Blues vs Panthers",
+          "team_a": "Blues",
+          "team_b": "Panthers",
+          "time": "2026-01-30T06:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://edgestreams.pro/hls/bvnzadfvyt59.m3u8?st=XBp77qXdFzAnld1Yg5m9EltqzhzgrlfllTb-w6QQ8pA&e=1769720494",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl12",
+          "title": "Oilers vs Sharks",
+          "team_a": "Oilers",
+          "team_b": "Sharks",
+          "time": "2026-01-30T07:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://edgestreams.pro/hls/gfhfgsqda61.m3u8?st=NMDwokxsug0eCOSLfkv5PeBd2ESutuPOxfSROaxjVJc&e=1769720529",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl13",
+          "title": "Kraken vs Maple Leafs",
+          "team_a": "Kraken",
+          "team_b": "Maple Leafs",
+          "time": "2026-01-30T08:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/gfsqdqsjhdaiu64.m3u8?st=0pwG5l-ktKHG7FyMB7ldkrlTTL-EprXQVIUfqBzMGDI&e=1769720568",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl14",
+          "title": "Golden Knights vs Stars",
+          "team_a": "Golden Knights",
+          "team_b": "Stars",
+          "time": "2026-01-30T08:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/wxcgfaiiog63.m3u8?st=BJZM-5S6EnEN6rnjj9gSm9vykY16L8nxc6Y4TQZa4Xw&e=1769720599",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nhl15",
+          "title": "Canucks vs Ducks",
+          "team_a": "Canucks",
+          "team_b": "Ducks",
+          "time": "2026-01-30T08:00:00+05:00",
+          "streams": [
+            {
+              "quality": "Link1",
+              "url": "https://mainstreams.pro/hls/wxdaztfhd62.m3u8?st=Kl7exieUkOIo2H2DCmuK91l5AMXnOV59lxEL7d7T5as&e=1769720631",
+              "headers": {
+                "User-Agent": "Mozilla/5.0",
+                "Referer": "https://streams.center/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "league": "NFL",
       "league_name": "Super Bowl",
       "matches": [
