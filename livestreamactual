@@ -1,5 +1,24 @@
 {
   "matches": [
+{
+      "id": "mlb1",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Twins vs Cardinals",
+      "team_a": "Twins",
+      "team_b": "Cardinals",
+      "time": "2026-06-13T23:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
     {
       "id": "mlb2",
       "league": "NFL",
