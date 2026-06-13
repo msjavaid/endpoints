@@ -1,0 +1,270 @@
+{
+  "matches": [
+    {
+      "id": "mlb2",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Blue Jays vs Yankees",
+      "team_a": "Blue Jays",
+      "team_b": "Yankees",
+      "time": "2026-06-14T00:07:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb3",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Nationals vs Mariners",
+      "team_a": "Nationals",
+      "team_b": "Mariners",
+      "time": "2026-06-14T01:05:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb4",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Pirates vs Marlins",
+      "team_a": "Pirates",
+      "team_b": "Marlins",
+      "time": "2026-06-14T01:05:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb5",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Orioles vs Padres",
+      "team_a": "Orioles",
+      "team_b": "Padres",
+      "time": "2026-06-14T01:05:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb6",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Reds vs Diamondbacks",
+      "team_a": "Reds",
+      "team_b": "Diamondbacks",
+      "time": "2026-06-14T01:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb7",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Red Sox vs Rangers",
+      "team_a": "Red Sox",
+      "team_b": "Rangers",
+      "time": "2026-06-14T01:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb8",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "White Sox vs Dodgers",
+      "team_a": "White Sox",
+      "team_b": "Dodgers",
+      "time": "2026-06-14T01:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb9",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Mets vs Braves",
+      "team_a": "Mets",
+      "team_b": "Braves",
+      "time": "2026-06-14T01:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb10",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Guardians vs Tigers",
+      "team_a": "Guardians",
+      "team_b": "Tigers",
+      "time": "2026-06-14T01:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb11",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Brewers vs Phillies",
+      "team_a": "Brewers",
+      "team_b": "Phillies",
+      "time": "2026-06-14T04:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb12",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Royals vs Astros",
+      "team_a": "Royals",
+      "team_b": "Astros",
+      "time": "2026-06-14T04:10:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb13",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Giants vs Cubs",
+      "team_a": "Giants",
+      "team_b": "Cubs",
+      "time": "2026-06-14T07:05:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb14",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Athletics vs Rockies",
+      "team_a": "Athletics",
+      "team_b": "Rockies",
+      "time": "2026-06-14T07:05:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb15",
+      "league": "NFL",
+      "league_name": "National Football League",
+      "title": "Angels vs Rays",
+      "team_a": "Angels",
+      "team_b": "Rays",
+      "time": "2026-06-14T07:07:00+05:00",
+      "streams": [
+        {
+          "quality": "Server1",
+          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=wRTN_Cip2X1RvctDvjX3PZ6-VgLXD_mcqk-oM4tt_6E&e=1781384769",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://streams.center/"
+          }
+        }
+      ]
+    }
+  ]
+}
