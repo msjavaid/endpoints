@@ -1,17 +1,17 @@
 {
   "matches": [
     {
-      "id": "mlb1",
+      "id": "match1",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Phillies vs Marlins",
-      "team_a": "Phillies",
-      "team_b": "Marlins",
-      "time": "2026-06-16T03:40:00+05:00",
+      "title": "France vs Senegal",
+      "team_a": "France",
+      "team_b": "Senegal",
+      "time": "2026-06-17T00:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=VPCQV-QMA6ixoPJD2k3H5qhTuWjdmC4537YRn6ZXqis&e=1781542760",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=zxh9q5mGlcmUTC8qBGAmpGxhM00rh5fINIbLMto6ekQ&e=1781643237",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -20,17 +20,17 @@
       ]
     },
     {
-      "id": "mlb2",
+      "id": "match2",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Nationals vs Royals",
-      "team_a": "Nationals",
-      "team_b": "Royals",
-      "time": "2026-06-16T03:45:00+05:00",
+      "title": "Iraq vs Norway",
+      "team_a": "Iraq",
+      "team_b": "Norway",
+      "time": "2026-06-17T03:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=QZr4Nm6zp6Qv2zfiP7DMNYrkM1byMfZj3mgCkdOCgq8&e=1781542789",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=VuGVq3KgxGzXqcOSrIo10eB9teEqqH3b63qapS_T_3w&e=1781643281",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -39,17 +39,17 @@
       ]
     },
     {
-      "id": "mlb3",
+      "id": "match3",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Reds vs Mets",
-      "team_a": "Reds",
-      "team_b": "Mets",
-      "time": "2026-06-16T04:10:00+05:00",
+      "title": "Argentina vs Algeria",
+      "team_a": "Argentina",
+      "team_b": "Algeria",
+      "time": "2026-06-17T06:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=swQvCs4RpQ5jgcXUmfWaICqYIgNJiVRSBXpLAM2Vw4w&e=1781542819",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=cuHhs-Vf0jE8Beo0qSsJAgR2FBOX-wDgTZA2Le5bp4s&e=1781643328",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -58,17 +58,17 @@
       ]
     },
     {
-      "id": "mlb4",
+      "id": "match4",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Cardinals vs Padres",
-      "team_a": "Cardinals",
-      "team_b": "Padres",
-      "time": "2026-06-16T04:45:00+05:00",
+      "title": "Austria vs Jordan",
+      "team_a": "Austria",
+      "team_b": "Jordan",
+      "time": "2026-06-17T09:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=bPA87RH5xQ6lEntBpy4pbc8Bf9Kx2LGstf5lLLeDIGY&e=1781542847",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=nxIqEY_CfxakZHx0X8t5VFg8t8M6MQcro8WwC3uAD1E&e=1781643364",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -77,112 +77,17 @@
       ]
     },
     {
-      "id": "mlb5",
+      "id": "match5",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Cubs vs Rockies",
-      "team_a": "Cubs",
-      "team_b": "Rockies",
-      "time": "2026-06-16T05:05:00+05:00",
+      "title": "Portugal vs DR Congo",
+      "team_a": "Portugal",
+      "team_b": "DR Congo",
+      "time": "2026-06-17T22:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=RTy4qSlrc7xjZlV1K5o2d7M1BPJXCF6WUSCJ9cnLmT4&e=1781542878",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streams.center/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "mlb6",
-      "league": "NFL",
-      "league_name": "National Football League",
-      "title": "Rangers vs Twins",
-      "team_a": "Rangers",
-      "team_b": "Twins",
-      "time": "2026-06-16T05:05:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=PkG53-ZLMK4Nj2JtBHQfuHYMAUUpNX3CxVbx9o_OdY8&e=1781542908",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streams.center/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "mlb7",
-      "league": "NFL",
-      "league_name": "National Football League",
-      "title": "Astros vs Tigers",
-      "team_a": "Astros",
-      "team_b": "Tigers",
-      "time": "2026-06-16T05:10:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=Y6u1Gz3PWkI1LhEWbMNkbgg768npCVCZP60AG0UtXpw&e=1781542935",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streams.center/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "mlb8",
-      "league": "NFL",
-      "league_name": "National Football League",
-      "title": "Athletics vs Pirates",
-      "team_a": "Athletics",
-      "team_b": "Pirates",
-      "time": "2026-06-16T06:40:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=4E-j4FxQQZiNcP-YJ52c-lUK_8BbK1eYzIEQHS-H_4w&e=1781542966",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streams.center/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "mlb9",
-      "league": "NFL",
-      "league_name": "National Football League",
-      "title": "Diamondbacks vs Angels",
-      "team_a": "Diamondbacks",
-      "team_b": "Angels",
-      "time": "2026-06-16T06:40:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=m6_WxuAhgJhkXDNw1bn-P54FxY0H0Q_jajNl7GXLino&e=1781542991",
-          "headers": {
-            "User-Agent": "Mozilla/5.0",
-            "Referer": "https://streams.center/"
-          }
-        }
-      ]
-    },
-    {
-      "id": "mlb10",
-      "league": "NFL",
-      "league_name": "National Football League",
-      "title": "Dodgers vs Rays",
-      "team_a": "Dodgers",
-      "team_b": "Rays",
-      "time": "2026-06-16T07:10:00+05:00",
-      "streams": [
-        {
-          "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/fskjanach24.m3u8?st=ljGPtNcXyaUcMSxViD6ggt8Q3OnSDG9RgnM_Ow4VAHo&e=1781543022",
+          "url": "",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
