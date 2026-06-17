@@ -4,14 +4,14 @@
       "id": "match1",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "France vs Senegal",
-      "team_a": "France",
-      "team_b": "Senegal",
-      "time": "2026-06-17T00:00:00+05:00",
+      "title": "Portugal vs DR Congo",
+      "team_a": "Portugal",
+      "team_b": "DR Congo",
+      "time": "2026-06-17T22:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=zxh9q5mGlcmUTC8qBGAmpGxhM00rh5fINIbLMto6ekQ&e=1781643237",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=xLh0E2WOAK6AAul1ccc_6eOZB0NrWZSaiynuLEdPuZk&e=1781725665",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -23,14 +23,14 @@
       "id": "match2",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Iraq vs Norway",
-      "team_a": "Iraq",
-      "team_b": "Norway",
-      "time": "2026-06-17T03:00:00+05:00",
+      "title": "England vs Croatia",
+      "team_a": "England",
+      "team_b": "Croatia",
+      "time": "2026-06-17T01:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=VuGVq3KgxGzXqcOSrIo10eB9teEqqH3b63qapS_T_3w&e=1781643281",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=IdKbI1lUuMxFE6e3cOBgXKUWp_z5UGyRbeYmDZEEcwI&e=1781725704",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -42,14 +42,14 @@
       "id": "match3",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Argentina vs Algeria",
-      "team_a": "Argentina",
-      "team_b": "Algeria",
-      "time": "2026-06-17T06:00:00+05:00",
+      "title": "Ghana vs Panama",
+      "team_a": "Ghana",
+      "team_b": "Panama",
+      "time": "2026-06-17T04:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=cuHhs-Vf0jE8Beo0qSsJAgR2FBOX-wDgTZA2Le5bp4s&e=1781643328",
+          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=yMcJGw-vfBPT0lxN6umM8rpfFk9BG1WX4vQnWuzYnFA&e=1781725755",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -61,14 +61,14 @@
       "id": "match4",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Austria vs Jordan",
-      "team_a": "Austria",
-      "team_b": "Jordan",
-      "time": "2026-06-17T09:00:00+05:00",
+      "title": "Uzbekistan vs Colombia",
+      "team_a": "Uzbekistan",
+      "team_b": "Colombia",
+      "time": "2026-06-17T07:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=nxIqEY_CfxakZHx0X8t5VFg8t8M6MQcro8WwC3uAD1E&e=1781643364",
+          "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=GaZYtrOkupIOdgM3MvZZAIf_hZ8Jf60nzPXG1RtOn4U&e=1781725784",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -80,10 +80,10 @@
       "id": "match5",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Portugal vs DR Congo",
-      "team_a": "Portugal",
-      "team_b": "DR Congo",
-      "time": "2026-06-17T22:00:00+05:00",
+      "title": "Czechia vs South Africa",
+      "team_a": "Czechia",
+      "team_b": "South Africa",
+      "time": "2026-06-17T21:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
