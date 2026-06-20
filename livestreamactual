@@ -4,14 +4,14 @@
       "id": "mlb1",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "USA vs Australia",
-      "team_a": "USA",
-      "team_b": "Australia",
-      "time": "2026-06-20T00:00:00+05:00",
+      "title": "Netherlands vs Sweden",
+      "team_a": "Netherlands",
+      "team_b": "Sweden",
+      "time": "2026-06-20T22:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=Wue9Z_uKCORkl_q6Zso94ZuhqsOs0Y4-Sb1UONbOT5E&e=1781895408",
+          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=9N9ClZFsSnOsWdYjrXRpbvnnxXZeLo0vzcS4g1bdbYs&e=1781986090",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -23,14 +23,14 @@
       "id": "mlb2",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Scotland vs Morocco",
-      "team_a": "Scotland",
-      "team_b": "Morocco",
-      "time": "2026-06-20T03:00:00+05:00",
+      "title": "Germany vs Ivory Coast",
+      "team_a": "Germany",
+      "team_b": "Ivory Coast",
+      "time": "2026-06-21T01:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=OSnYdZnHXy4PgXRhSapMiJdeaDPSvYVCSDu8Gdvd10U&e=1781895446",
+          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=VF3sSC2ruEpvViKjDS_mxZtLZyqyEMVWzZXO7Nb6Wuk&e=1781986136",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -42,14 +42,14 @@
       "id": "mlb3",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Brazil vs Haiti",
-      "team_a": "Brazil",
-      "team_b": "Haiti",
-      "time": "2026-06-20T05:30:00+05:00",
+      "title": "Ecuador vs Curacao",
+      "team_a": "Ecuador",
+      "team_b": "Curacao",
+      "time": "2026-06-21T05:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=7B76WC_fo5WjQurhNndSey8bQSowUPAGZmsWLnyapAw&e=1781895480",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=mrCAJWF6tncFLrVTAwREbJ9VVPZHp7Fx0m-HbLn5Njs&e=1781986181",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -61,14 +61,14 @@
       "id": "mlb4",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Turkiye vs Paraguay",
-      "team_a": "Turkiye",
-      "team_b": "Paraguay",
-      "time": "2026-06-20T08:00:00+05:00",
+      "title": "Tunisia vs Japan",
+      "team_a": "Tunisia",
+      "team_b": "Japan",
+      "time": "2026-06-21T09:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=a15AFUTbqYrCRp1SrL18yI79zcyPU2PTU99a_d6i19o&e=1781895511",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=o_y5-ZbIGEleT8uh0_bNnP6lxjgOzSuv0BwN3NdnpIY&e=1781986216",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -80,10 +80,10 @@
       "id": "mlb5",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Netherlands vs Sweden",
-      "team_a": "Netherlands",
-      "team_b": "Sweden",
-      "time": "2026-06-20T22:00:00+05:00",
+      "title": "Spain vs Saudi Arabia",
+      "team_a": "Spain",
+      "team_b": "Saudi Arabia",
+      "time": "2026-06-21T21:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
