@@ -4,14 +4,14 @@
       "id": "mlb1",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Netherlands vs Sweden",
-      "team_a": "Netherlands",
-      "team_b": "Sweden",
-      "time": "2026-06-20T22:00:00+05:00",
+      "title": "Spain vs Saudi Arabia",
+      "team_a": "Spain",
+      "team_b": "Saudi Arabia",
+      "time": "2026-06-21T21:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=9N9ClZFsSnOsWdYjrXRpbvnnxXZeLo0vzcS4g1bdbYs&e=1781986090",
+          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=K59molSFraUbKLGXcmiE3UnSRw9QFtusEFZrcc71jPg&e=1782067648",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -23,14 +23,14 @@
       "id": "mlb2",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Germany vs Ivory Coast",
-      "team_a": "Germany",
-      "team_b": "Ivory Coast",
-      "time": "2026-06-21T01:00:00+05:00",
+      "title": "Belgium vs Iran",
+      "team_a": "Belgium",
+      "team_b": "Iran",
+      "time": "2026-06-22T00:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=VF3sSC2ruEpvViKjDS_mxZtLZyqyEMVWzZXO7Nb6Wuk&e=1781986136",
+          "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=yBYIKN8xsf1jxFz_N8ozZhTis3cFQjVJso6l-datarY&e=1782067692",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -42,14 +42,14 @@
       "id": "mlb3",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Ecuador vs Curacao",
-      "team_a": "Ecuador",
-      "team_b": "Curacao",
-      "time": "2026-06-21T05:00:00+05:00",
+      "title": "Uruguay vs Cabo Verde",
+      "team_a": "Uruguay",
+      "team_b": "Cabo Verde",
+      "time": "2026-06-22T03:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=mrCAJWF6tncFLrVTAwREbJ9VVPZHp7Fx0m-HbLn5Njs&e=1781986181",
+          "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=u4-IMGI25l0zwqd4HxYl4peudLZQfUxXsTf_dwCFYK0&e=1782067730",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -61,14 +61,14 @@
       "id": "mlb4",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Tunisia vs Japan",
-      "team_a": "Tunisia",
-      "team_b": "Japan",
-      "time": "2026-06-21T09:00:00+05:00",
+      "title": "New Zealand vs Egypt",
+      "team_a": "New Zealand",
+      "team_b": "Egypt",
+      "time": "2026-06-22T06:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
-          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=o_y5-ZbIGEleT8uh0_bNnP6lxjgOzSuv0BwN3NdnpIY&e=1781986216",
+          "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=E7RYaLfXqqs_XfD5XTNImbbqYVXfCCmr1NcohFGu6FU&e=1782067768",
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://streams.center/"
@@ -80,10 +80,10 @@
       "id": "mlb5",
       "league": "NFL",
       "league_name": "National Football League",
-      "title": "Spain vs Saudi Arabia",
-      "team_a": "Spain",
-      "team_b": "Saudi Arabia",
-      "time": "2026-06-21T21:00:00+05:00",
+      "title": "Argentina vs Austria",
+      "team_a": "Argentina",
+      "team_b": "Austria",
+      "time": "2026-06-22T22:00:00+05:00",
       "streams": [
         {
           "quality": "Server1",
