@@ -3,58 +3,58 @@
   "response": {
     "news": [
       {
-        "id": "ftbpro_01kv63m6349y",
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/c_fill,w_912,h_516,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kv66gvgmf46ga0m17c.jpg",
-        "title": "Transfer Rumors: Nunez Seals Liverpool Return; Rashford Decides on Man Utd Future",
-        "gmtTime": "2026-06-15T23:05:00.000Z",
+        "id": "1qiyvd863zewv1uursn9k9tpwv",
+        "imageUrl": "https://images.performgroup.com/di/library/omnisport/5e/9d/reece-james_1d8d0n7hw95wz12hdpaean9l52.png?t=-310527682&w=1040&h=566",
+        "title": "'It's so boring now' – James annoyed by continuous injury talk",
+        "gmtTime": "2026-06-21T14:24:34.000Z",
+        "sourceStr": "FotMob",
+        "sourceIconUrl": "https://images.fotmob.com/image_resources/news/fotmob.png",
+        "page": {
+          "url": "/news/1qiyvd863zewv1uursn9k9tpwv-its-so-boring-now-james-annoyed-continuous-injury-talk"
+        }
+      },
+      {
+        "id": "ftbpro_01kvm2119vw2",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1024,h_576,x_0,y_73/c_fill,w_912,h_516,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kvm2964ete948k8xbf.jpg",
+        "title": "‘Disgusting’—Doku Slammed by Presenter Over Plan to Leave World Cup",
+        "gmtTime": "2026-06-21T11:36:18.000Z",
         "sourceStr": "SI",
         "sourceIconUrl": "https://images.fotmob.com/image_resources/news/si.png",
         "page": {
-          "url": "/embed/news/01kv63m6349y/transfer-rumors-nunez-seals-liverpool-return-rashford-decides-man-utd-future"
+          "url": "/embed/news/01kvm2119vw2/disgustingdoku-slammed-presenter-over-plan-leave-world-cup"
         }
       },
       {
-        "id": "1tezww5sdd1me15app5a9chr4t",
-        "imageUrl": "https://images.performgroup.com/di/library/omnisport/fb/64/maxi-araujo_1husmv7qerl8c1dgnis2836740.jpg?t=-844443938&w=520&h=300",
-        "title": "Saudi Arabia 1-1 Uruguay: Araujo clinches late draw for Bielsa's men in World Cup opener",
-        "gmtTime": "2026-06-16T00:10:08.000Z",
+        "id": "91s1udve1sqq1gwd4flln2epe",
+        "imageUrl": "https://images.performgroup.com/di/library/omnisport/be/42/room_1nsa9fyokoh9i1pxsobgn4oefo.jpg?t=-322951938&w=520&h=300",
+        "title": "Curacao hero Room: Give me a statue!",
+        "gmtTime": "2026-06-21T12:19:14.000Z",
         "sourceStr": "FotMob",
         "sourceIconUrl": "https://images.fotmob.com/image_resources/news/fotmob.png",
         "page": {
-          "url": "/news/1tezww5sdd1me15app5a9chr4t-saudi-arabia-1-1-uruguay-araujo-clinches-late-draw-bielsas-men-world-cup-opener"
+          "url": "/news/91s1udve1sqq1gwd4flln2epe-curacao-hero-room-give-me-statue"
         }
       },
       {
-        "id": "1c1skd48zmjyaz3aew5u1j7e0",
-        "imageUrl": "https://images.performgroup.com/di/library/omnisport/e8/45/ramin-rezaeian_kgyxfuwdu1re182x8wcwjiovo.jpg?t=-822527682&w=520&h=300",
-        "title": "Iran 2-2 New Zealand: Just and Rezaeian impress in thrilling Group G draw",
-        "gmtTime": "2026-06-16T03:18:08.000Z",
-        "sourceStr": "FotMob",
-        "sourceIconUrl": "https://images.fotmob.com/image_resources/news/fotmob.png",
-        "page": {
-          "url": "/news/1c1skd48zmjyaz3aew5u1j7e0-iran-2-2-new-zealand-just-rezaeian-impress-thrilling-group-g-draw"
-        }
-      },
-      {
-        "id": "ftbpro_01kv5fe97sng",
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1024,h_576,x_0,y_46/c_fill,w_912,h_516,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kv5hvdspa4dxgy5pab.jpg",
-        "title": "‘He Benched Me’—Thibaut Courtois Reveals Previous Clashes With Jose Mourinho",
-        "gmtTime": "2026-06-15T22:25:30.000Z",
+        "id": "ftbpro_01kvn50fsc58",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/c_fill,w_912,h_516,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kvnax6hcm9ehfnsa9w.jpg",
+        "title": "Spain Take Major Risk With Yamal Selection vs. Saudi Arabia",
+        "gmtTime": "2026-06-21T15:00:02.000Z",
         "sourceStr": "SI",
         "sourceIconUrl": "https://images.fotmob.com/image_resources/news/si.png",
         "page": {
-          "url": "/embed/news/01kv5fe97sng/he-benched-methibaut-courtois-reveals-previous-clashes-jose-mourinho"
+          "url": "/embed/news/01kvn50fsc58/spain-take-major-risk-yamal-selection-vs-saudi-arabia"
         }
       },
       {
-        "id": "171m067sjmbwu18d9ql10l07og",
-        "imageUrl": "https://images.performgroup.com/di/library/omnisport/29/df/romelu-lukaku_1d58q6x17c71v13xd9qc7rdip3.jpg?t=-780245714&w=520&h=300",
-        "title": "Belgium 1-1 Egypt: Spoils shared in end-to-end Group G encounter",
-        "gmtTime": "2026-06-15T21:03:55.000Z",
+        "id": "50q5b0wz6amw1j5pcd5kmuh62",
+        "imageUrl": "https://images.performgroup.com/di/library/omnisport/3f/4d/jose-mourinho_e0gu6bcgqdf01xryo4gvwufum.png?t=-315143938&w=520&h=300",
+        "title": "Bale backs Mourinho to 'manage egos' at Real Madrid",
+        "gmtTime": "2026-06-21T13:52:51.000Z",
         "sourceStr": "FotMob",
         "sourceIconUrl": "https://images.fotmob.com/image_resources/news/fotmob.png",
         "page": {
-          "url": "/news/171m067sjmbwu18d9ql10l07og-belgium-1-1-egypt-spoils-shared-end-end-group-g-encounter"
+          "url": "/news/50q5b0wz6amw1j5pcd5kmuh62-bale-backs-mourinho-manage-egos-at-real-madrid"
         }
       }
     ]
